@@ -6,9 +6,9 @@
 
 # :computer: Web Screenshot
 
-<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+<p align="center">
   <img src=".github/web-landing.png" width="600px">
-</div>
+</p>
 
 # :construction_worker: Run Web Project
 ```bash
