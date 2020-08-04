@@ -2,7 +2,7 @@
   <img src=".github/logo.svg" alt="Proffy" width="300"/>
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
+> :rocket: Study platform designed to connect students and teachers - Next Level Week #2 @Rocketseat
 
 # :computer: Web Screenshot
 
